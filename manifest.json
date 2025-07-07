@@ -1,11 +1,28 @@
 {
   "manifest_version": 3,
-  "version": "1.1",
+  "version": "1.0",
   "name": "Deltarune Theme",
   "description": "Deltarune Dark Fountain Theme ",
+  "icons": {
+    "128":"icon.png"
+  },
   "theme": {
-    "images": {
-        "theme_tab_background": "background.gif"
+    "images" : {
+      "theme_ntp_background": "background.gif"
+    },
+    "colors" : {
+      "frame" : [0,0,0],
+      "frame_inactive": [0,0,0],
+      "toolbar" : [6,25,69],
+      "bookmark_text": [0,239,253],
+      "tab_background_text":[0,157,166],
+      "tab_text": [0,239,253],
+      "omnibox_background": [ 0, 0, 0 ],
+      "omnibox_text": [0,239,253 ]
+    },
+    "tints" : {
+      "frame_inactive": [0,0,0],
+      "buttons": [ 0.5083333333333333, 1, 0.5]
     }
   }
 }
