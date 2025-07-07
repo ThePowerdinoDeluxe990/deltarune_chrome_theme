@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "Deltarune Theme",
+  "description": "Deltarune Dark Fountain Theme ",
+  "theme": {
+    "images": {
+        "theme_tab_background": "background.gif"
+    }
+  }
+}
