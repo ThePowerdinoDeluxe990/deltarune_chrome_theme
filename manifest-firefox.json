@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Deltarune Fountain",
+  "theme": {
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(6, 25, 39)",
+      "toolbar_text": "rgb(0, 239, 253)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(2, 136, 144)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(0, 239, 253)",
+      "tab_line": "rgb(0, 239, 253)",
+      "popup": "rgba(6, 25, 39, 0.94)",
+      "popup_text": "rgb(0, 239, 253)",
+      "icons": "rgb(0, 237, 255)",
+      "popup_border": "rgb(0, 239, 253)",
+      "tab_loading": "rgb(0, 239, 253)"
+    }
+  }
+}
